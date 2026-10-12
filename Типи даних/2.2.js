@@ -11,4 +11,4 @@ for (const value of values) {
   counts[type]++;
 }
 
-console.dir(counts)
+console.dir(counts);
